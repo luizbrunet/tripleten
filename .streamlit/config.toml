@@ -3,5 +3,5 @@ headless = true
 port = 10000
 
 [browser]
-serverAddress = "10.0.0.1"
+serverAddress = "localhost"
 serverPort = 10000
